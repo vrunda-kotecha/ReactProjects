@@ -1,3 +1,23 @@
+# ReactProjects
+This File Contains The Following Projects:
+1. TicTacToe
+A classic two-player Tic Tac Toe game built with React. Features dynamic board rendering, turn-based play, and win/draw detection using React state and hooks.
+
+2. MyBus
+A simple bus booking system developed in React. Users can browse bus routes, view details, and simulate ticket booking. Demonstrates effective use of React Router and component structuring.
+
+3. Calculator
+A responsive calculator application built with React. Supports real-time arithmetic operations and clean UI, leveraging React state for input and result management.
+
+4. Multiplex
+A movie booking interface made with React. Users can view current movies, select showtimes, and book seats. Built with reusable components and interactive state handling.
+
+5. Cart
+A basic e-commerce shopping cart app in React. Features include product listing, add/remove items from the cart, and total calculation — great for showcasing React context or Redux (if used).
+
+6. McqQuiz
+An interactive multiple-choice quiz application built using React. Displays questions, tracks answers and scores, and shows results — demonstrating controlled components and state logic.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
