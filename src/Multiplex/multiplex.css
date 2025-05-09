@@ -1,0 +1,90 @@
+.App 
+{
+  text-align: center;
+}
+.App-header1 
+{
+  align-items: center;
+  justify-content: center;
+  color: black;
+}
+.mul
+{
+  margin-top: 50px;
+  padding-left: 250px;
+  text-align: left;
+  width: 1180px;
+}
+.mbtn
+{
+  margin-right: 10px;
+  border: solid 1px rgb(8, 183, 8); 
+  color: rgb(8, 183, 8);
+  border-radius: 5px;
+  background-color: white;
+  height: 35px;
+  width: 35px;
+  margin-bottom: 15px;
+}
+.m1btn
+{
+  margin-right: 10px;
+  border-radius: 5px;
+  border: solid 1px  rgb(8, 183, 8);
+  color: rgb(8, 183, 8);
+  background-color: white;
+  height: 35px;
+  width: 35px;
+  margin-left: 280px;
+}
+.m2btn
+{
+  margin-right: 10px;
+  border-radius: 5px;
+  border: solid 1px  rgb(8, 183, 8); 
+  color: rgb(8, 183, 8);
+  background-color: white;
+  height: 35px;
+  width: 35px;
+  margin-left: 55px;
+}
+.m3btn
+{
+  margin-right: 10px;
+  border-radius: 5px;
+  border: solid 1px  rgb(8, 183, 8); 
+  color: rgb(8, 183, 8);
+  background-color: white;
+  height: 35px;
+  width: 35px;
+  margin-left:133px;
+}
+.screen
+{
+  margin-top: 50px;
+  color: rgb(12, 103, 214);
+  height: 0px;
+}
+.sn
+{
+  margin-left: 350px;
+}
+.tt1
+{
+    background-color: rgb(240, 113, 113);
+    height: 50px;
+    width: 150px;
+    border-radius: 5px;
+    margin: 20px;
+    margin-left: 400px;
+    border: 0px solid;
+    text-align: center;
+    color:white;
+    font-size: 30px;
+    font-weight: bold;
+}
+hr
+{
+  width: 900px;
+  margin-left: 200px; 
+}

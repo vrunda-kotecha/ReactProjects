@@ -1,0 +1,346 @@
+.App 
+{
+  text-align: center;
+}
+.form-control
+{
+  height:60px;
+  width:300px;
+  background-color: #61dafb;
+  font-size: 20px;
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+.App-header 
+{
+  background-color:pink;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: black;
+}
+.calc
+{
+  background-color: black;
+  width: 400px;
+  height:600px;
+}
+.txtt
+{
+  background-color: transparent;
+  border: 0px solid;
+  text-align: center;
+  color:white;
+  font-size: 60px;
+  font-weight: bold;
+}
+.b1
+{
+  height:200px;
+  width:200px;
+  background-color: white;
+  border: solid 7px pink;
+  font-size: 90px;
+  font-weight: bold;
+  color:pink
+}
+.bc
+{
+  width: 600px;
+}
+.txt1
+{
+  width: 390px;
+  height: 100px;
+  background-color: black;
+  color: white;
+  font-size: 70px;
+  text-align: right;
+}
+.btn1
+{
+  background-color: lightslategray;
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+  margin-top: 10px;
+  margin-right: 15px;
+  cursor: pointer;
+  border-radius: 50%;
+  height: 80px;
+  width: 80px;
+}
+  .btn2
+{
+  background-color: orange;
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+  margin-top: 10px;
+  margin-right: 15px;
+  cursor: pointer;
+  border-radius: 50%;
+  height: 80px;
+  width: 80px;
+}
+
+.btn3
+{
+  background-color: rgb(61, 61, 61);
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+  margin-top: 10px;
+  margin-right: 15px;
+  cursor: pointer;
+  border-radius: 50%;
+  height: 80px;
+  width: 80px;
+}
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.App-header1 
+{
+  align-items: center;
+  justify-content: center;
+  color: black;
+}
+.mbtn
+{
+  margin-right: 10px;
+  border: solid 1px rgb(8, 183, 8); 
+  color: rgb(8, 183, 8);
+  border-radius: 5px;
+  background-color: white;
+  height: 35px;
+  width: 35px;
+  margin-bottom: 15px;
+}
+.m1btn
+{
+  margin-right: 10px;
+  border-radius: 5px;
+  border: solid 1px  rgb(8, 183, 8);
+  color: rgb(8, 183, 8);
+  background-color: white;
+  height: 35px;
+  width: 35px;
+  margin-left: 280px;
+}
+.m2btn
+{
+  margin-right: 10px;
+  border-radius: 5px;
+  border: solid 1px  rgb(8, 183, 8); 
+  color: rgb(8, 183, 8);
+  background-color: white;
+  height: 35px;
+  width: 35px;
+  margin-left: 55px;
+}
+.m3btn
+{
+  margin-right: 10px;
+  border-radius: 5px;
+  border: solid 1px  rgb(8, 183, 8); 
+  color: rgb(8, 183, 8);
+  background-color: white;
+  height: 35px;
+  width: 35px;
+  margin-left:133px;
+}
+hr
+{
+  width: 900px;
+  margin-left: 200px; 
+}
+.mul
+{
+  margin-top: 50px;
+  padding-left: 250px;
+  text-align: left;
+  width: 1180px;
+}
+.screen
+{
+  margin-top: 100px;
+  color: rgb(12, 103, 214);
+  height: 0px;
+}
+.sn
+{
+  margin-left: 350px;
+}
+.tt1
+{
+    background-color: rgb(240, 113, 113);
+    height: 50px;
+    width: 150px;
+    border-radius: 5px;
+    margin: 20px;
+    margin-left: 400px;
+    border: 0px solid;
+    text-align: center;
+    color:white;
+    font-size: 30px;
+    font-weight: bold;
+}
+.App-header2
+{
+  align-items: center;
+  justify-content: center;
+  color: rgb(123, 12, 154);
+}
+.qbtn
+{
+  margin-right: 10px;
+  border: white; 
+  color: white;
+  border-radius: 5px;
+  background-color: rgb(123, 12, 154);
+  height: 35px;
+  width: 35px;
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
+.q2btn
+{
+  margin-right: 10px;
+  border: white; 
+  color: white;
+  border-radius: 5px;
+  background-color: rgb(123, 12, 154);
+  height: 50px;
+  width: 200px;
+  margin-bottom: 15px;
+  margin-top: 15px;
+  text-align: center;
+  font-size: 30px;
+}
+.questions 
+{
+  margin-top: 35px;
+  margin-left: 30px;
+  margin-right: 60px;
+  border-radius: 5px;
+  text-align: left;
+  font-size: 30px;
+  color: white;
+  padding-left: 30px;
+  background-color: rgb(123, 12, 154);
+}
+.radio
+{
+  text-align: left;
+  padding: 20px;
+  background-color:  rgb(207, 159, 220);
+  color: rgb(123, 12, 154);
+  font-size: 25px;
+  margin-top: 15px;
+  margin-left: 30px;
+  margin-right: 60px;
+  border-radius: 5px;
+}
+.q1btn
+{
+  width: 200px;
+  height: 40px;
+  margin-right: 10px;
+  border: white; 
+  color: white;
+  font-size: 20px;
+  border-radius: 5px;
+  background-color: rgb(123, 12, 154);
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
+
+
+.total
+{
+    background-color: slateblue;
+    height: 50px;
+    width: 150px;
+    border-radius: 5px;
+    border: 0px solid;
+    text-align: center;
+    color:white;
+    font-size: 30px;
+    font-weight: bold;
+}
+.img
+{
+  width: 300px;
+  height:180px;
+  margin: 10px;
+}
+.p1
+{
+  background-color: rgb(156, 145, 230);
+  border: none;
+  font-size: 30px;
+  margin-top: 70px;
+  width: 150px;
+  height: 50px;
+}
+.product
+{
+  margin-left: 60px;
+  margin-bottom: 20px;
+  color: black;
+  height: 200px;
+  background-color: rgb(156, 145, 230);
+}
+.qnt
+{
+  width:30px;
+  height: 30px;
+  background-color: rgb(156, 145, 230);
+  border: none;
+  text-align: center;
+  border-radius: 5px;
+}
+.plus
+{
+  margin-top: 75px;
+  border-radius: 5px;
+  border: none;
+  font-size: 20px;
+  color: white;
+  background-color: slateblue;
+  height: 30px;
+  width: 30px;
+}

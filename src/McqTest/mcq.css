@@ -1,0 +1,82 @@
+.App 
+{
+  text-align: center;
+}
+.App-header2
+{
+  align-items: center;
+  justify-content: center;
+  color: rgb(123, 12, 154);
+}
+.correct {
+    color: green;
+    font-weight: bold;
+  }
+  
+  .incorrect {
+    color: red;
+    font-weight: bold;
+  }
+  .qbtn
+{
+  margin-right: 10px;
+  border: white; 
+  color: white;
+  border-radius: 5px;
+  background-color: rgb(123, 12, 154);
+  height: 35px;
+  width: 35px;
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
+.questions 
+{
+  margin-top: 35px;
+  margin-left: 30px;
+  margin-right: 60px;
+  border-radius: 5px;
+  text-align: left;
+  font-size: 30px;
+  color: white;
+  padding-left: 30px;
+  background-color: rgb(123, 12, 154);
+}
+.radio
+{
+  text-align: left;
+  padding: 20px;
+  background-color:  rgb(207, 159, 220);
+  color: rgb(123, 12, 154);
+  font-size: 25px;
+  margin-top: 15px;
+  margin-left: 30px;
+  margin-right: 60px;
+  border-radius: 5px;
+}
+.q1btn
+{
+  width: 200px;
+  height: 40px;
+  margin-right: 10px;
+  border: white; 
+  color: white;
+  font-size: 20px;
+  border-radius: 5px;
+  background-color: rgb(123, 12, 154);
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
+.q2btn
+{
+  margin-right: 10px;
+  border: white; 
+  color: white;
+  border-radius: 5px;
+  background-color: rgb(123, 12, 154);
+  height: 50px;
+  width: 200px;
+  margin-bottom: 15px;
+  margin-top: 15px;
+  text-align: center;
+  font-size: 30px;
+}
